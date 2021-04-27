@@ -3,7 +3,7 @@
 .backup
 .source
 
-# git add . && git commit -m "update" && git push origin && git push git && git push tencent
+# git add . && git commit -m "update" && git push origin
 # git fetch --all && git reset --hard origin/master && git pull
 
 
